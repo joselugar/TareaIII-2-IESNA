@@ -1,10 +1,6 @@
 # TareaIII-2-IESNA
 Repositorio para la tarea III-2 de TIC2 en el IES Néstor Almendros 
 <html>
-<head>
-  <title>Mi primer código clonado</title>
- <style type="text/css">
-</head>
 <body>
 <!-- Contenido principal -->
 <h1>Mi primer código clonado</h1>
