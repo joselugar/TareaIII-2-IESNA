@@ -10,7 +10,7 @@ Repositorio para la tarea III-2 de TIC2 en el IES Néstor Almendros
 <p>Me llamo Rocío y estoy en el I.E.S Néstor Almendros.<br>
 Hago este código clonado como una de las tareas del trimestre.
 <p> A continuación os dejo mi enlace a la cuenta de twitter: <a href="https://twitter.com/NietoCarrero?lang=en">¡Aquí!</a>
-
+<p><img src="https://thumbs.gfycat.com/FaroffLimitedGermanpinscher.webp">
 <!-- Firma y fecha de la página, ¡sólo por cortesía! -->
 <address><em><b>Creada el 28 de abril de 2019, por mi misma.<b/></em></address>
 
